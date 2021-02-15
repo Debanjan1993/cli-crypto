@@ -1,0 +1,1 @@
+export const isRequired = (input:string) => input ? true : 'Please enter a API key';  

@@ -1,0 +1,25 @@
+{
+    "name": "cli-crypto",
+    "version": "1.0.0",
+    "description": "",
+    "bin": "./bin/cli-crypto.js",
+    "scripts": {
+        "start": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "colors": "^1.4.0",
+        "commander": "^7.0.0",
+        "config": "^3.3.3",
+        "configstore": "^5.0.1",
+        "inquirer": "^7.3.3"
+    },
+    "devDependencies": {
+        "@types/configstore": "^4.0.0",
+        "@types/inquirer": "^7.3.1",
+        "@types/node": "^14.14.27"
+    }
+}
